@@ -16,7 +16,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<unknown>) => {
           tag: {
             name: 'Users',
           },
-        }
+        },
       },
     },
   })
